@@ -79,7 +79,7 @@ public class Main {
             }
 
     //6
-       int passengers = 72;
+       int passengers = 73;
        int passengerCapacity = 102;
        int seats = 60;
        int standing = passengerCapacity - seats;
